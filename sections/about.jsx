@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image"
 import { RunningText,TitlePage } from "@/components/TypingText"
 import Section from "@/components/Section"

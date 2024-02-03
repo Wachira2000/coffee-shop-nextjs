@@ -1,3 +1,5 @@
+"use client";
+
 import Section from "@/components/Section"
 import { RunningText,TitlePage } from "@/components/TypingText"
 import DessertCard from "@/components/DessertCard"

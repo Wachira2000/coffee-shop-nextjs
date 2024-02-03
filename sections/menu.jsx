@@ -1,3 +1,5 @@
+"use client";
+
 import {Ourmenu} from "@/constant"
 import Section from "@/components/Section"
 import CoffeeCard from "@/components/CoffeeCard"

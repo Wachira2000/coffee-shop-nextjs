@@ -1,3 +1,5 @@
+"use client";
+
 import {HiOutlineMail,HiOutlineLocationMarker} from "react-icons/hi"
 import FooterTitle from "@/components/FooterTitle"
 import Section from "@/components/Section"
